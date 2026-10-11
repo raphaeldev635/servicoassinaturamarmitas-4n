@@ -44,6 +44,6 @@ O bloco N1 - Entrega 1 é composto pelo protótipo com a sequência de telas do 
 * **Vídeo da N1 - Entrega 1:** [Assistir ao Vídeo Explicativo](https://youtu.be/fnZCeVywArA)
 
 ### 4. Diagrama de classes
-![Diagrama de classes](diagrama.jpeg)
+![Diagrama de classes](diagrama.png)
 
 ---
