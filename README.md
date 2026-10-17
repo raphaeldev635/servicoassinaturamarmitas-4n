@@ -43,7 +43,31 @@ O bloco N1 - Entrega 1 é composto pelo protótipo com a sequência de telas do 
 ### 3. Vídeo de apresentação
 * **Vídeo da N1 - Entrega 1:** [Assistir ao Vídeo Explicativo](https://youtu.be/fnZCeVywArA)
 
-### 4. Diagrama de classes
+---
+
+## N1 - Entrega 2:
+
+O bloco N1 - Entrega 2 é composto pelo Diagrama de Classes de Domínio:
+
+### Diagrama de Classes de Domínio
 ![Diagrama de classes](diagrama.png)
+
+---
+
+## N2 - Entrega 3:
+
+O bloco N2 - Entrega 3 é composto pelos Diagramas de Sequência e Diagrama de Classes de Projeto
+
+### Diagrama de Sequência Onboarding
+![Diagrama de Sequência Onboarding](diagrama-de-sequencia-onboarding.png)
+
+### Diagrama de Sequência Preferências Alimentares e Pedido
+![Diagrama de Sequência Preferências Alimentares e Pedido](diagrama-de-sequencia-preferencias-alimentares-pedido.png)
+
+### Diagrama de Sequência Endereço e Pagamento
+![Diagrama de Sequência Endereço e Pagamento](diagrama-de-sequencia-endereco-pagamento.png)
+
+### Diagrama de Classes de Projeto
+![Diagrama de Classes de Projeto](img.png)
 
 ---
