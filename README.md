@@ -67,7 +67,13 @@ O bloco N2 - Entrega 3 é composto pelos Diagramas de Sequência e Diagrama de C
 ### Diagrama de Sequência Endereço e Pagamento
 ![Diagrama de Sequência Endereço e Pagamento](diagrama-de-sequencia-endereco-pagamento.png)
 
-### Diagrama de Classes de Projeto
-![Diagrama de Classes de Projeto](img.png)
+### Diagrama de Classes de Projeto Onboarding
+![Diagrama de Classes de Projeto](diagrama-de-classes-de-projeto-onboarding.png)
+
+### Diagrama de Classes de Projeto Preferências Alimentares e Pedido
+![Diagrama de Classes de Projeto](diagrama-de-classes-de-projeto-preferencias-alimentares-pedido.png)
+
+### Diagrama de Classes de Projeto Endereço e Pagamento
+![Diagrama de Classes de Projeto](diagrama-de-classes-de-projeto-endereco-pagamento.png)
 
 ---
