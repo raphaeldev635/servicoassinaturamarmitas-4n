@@ -58,22 +58,30 @@ O bloco N1 - Entrega 2 é composto pelo Diagrama de Classes de Domínio:
 
 O bloco N2 - Entrega 3 é composto pelos Diagramas de Sequência e Diagrama de Classes de Projeto
 
-### Diagrama de Sequência Onboarding
+### Notas
+
+Checklist: ![Checklist](checklist-entrega-3.pdf)
+
+### Diagramas de Sequência:
+
+#### Diagrama de Sequência Onboarding
 ![Diagrama de Sequência Onboarding](diagrama-de-sequencia-onboarding.png)
 
-### Diagrama de Sequência Preferências Alimentares e Pedido
+#### Diagrama de Sequência Preferências Alimentares e Pedido
 ![Diagrama de Sequência Preferências Alimentares e Pedido](diagrama-de-sequencia-preferencias-alimentares-pedido.png)
 
-### Diagrama de Sequência Endereço e Pagamento
+#### Diagrama de Sequência Endereço e Pagamento
 ![Diagrama de Sequência Endereço e Pagamento](diagrama-de-sequencia-endereco-pagamento.png)
 
-### Diagrama de Classes de Projeto Onboarding
+### Diagramas de Classes de Projeto:
+
+#### Diagrama de Classes de Projeto Onboarding
 ![Diagrama de Classes de Projeto](diagrama-de-classes-de-projeto-onboarding.png)
 
-### Diagrama de Classes de Projeto Preferências Alimentares e Pedido
+#### Diagrama de Classes de Projeto Preferências Alimentares e Pedido
 ![Diagrama de Classes de Projeto](diagrama-de-classes-de-projeto-preferencias-alimentares-pedido.png)
 
-### Diagrama de Classes de Projeto Endereço e Pagamento
+#### Diagrama de Classes de Projeto Endereço e Pagamento
 ![Diagrama de Classes de Projeto](diagrama-de-classes-de-projeto-endereco-pagamento.png)
 
 ---
