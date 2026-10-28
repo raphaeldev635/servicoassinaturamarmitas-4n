@@ -60,7 +60,7 @@ O bloco N2 - Entrega 3 é composto pelos Diagramas de Sequência e Diagrama de C
 
 ### Notas
 
-Checklist: ![Checklist](checklist-entrega-3.pdf)
+Checklist: [visualizar checklist](checklist-entrega-3.pdf)
 
 ### Diagramas de Sequência:
 
