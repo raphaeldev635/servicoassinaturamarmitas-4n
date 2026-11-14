@@ -1,0 +1,5 @@
+/build/
+/build-testes/
+/dados/*
+!/dados/.gitkeep
+*.class
