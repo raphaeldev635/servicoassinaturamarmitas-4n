@@ -79,7 +79,7 @@ O bloco N2 - Entrega 4 é composto pela implementação do cenário do caso de u
 ### Vídeo de apresentação
 * **Vídeo da N2 - Entrega 4:** [Assistir ao Vídeo Explicativo](https://youtu.be/VFYdRepPX0A)
 
-Executável: [baixar AssinaturaRefeicoes.jar](AssinaturaRefeicoes.jar)
+Executável: [baixar AssinaturaRefeicoes.jar](/implementacao/ProjetoAssinaturaRefeicoesJava/AssinaturaRefeicoes.jar)
 
 ### Execução
 
